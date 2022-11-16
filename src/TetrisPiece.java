@@ -1,5 +1,3 @@
-package tetris_piece;
-
 public class TetrisPiece {
     //  define 2 properties for the coordinates of the game piece instance.
     private int xCoord, yCoord;

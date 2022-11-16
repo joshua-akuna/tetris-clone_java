@@ -1,5 +1,3 @@
-import tetris_piece.TetrisPiece;
-
 //  responsible for generating various shapes of tetris pieces.
 public class TetrisPieceFactory {
     /**
